@@ -4,7 +4,8 @@
  * bst_insert -
  *
  * Return:
- */
+*/
+
 bst_t *bst_search(const bst_t *tree, int value)
 {
 if (tree == NULL)
