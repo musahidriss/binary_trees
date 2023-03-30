@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+bst_t *bst_search(const bst_t *tree, int value);
 
 /**
  * bst_insert - searches for a value in a Binary Search Tree
